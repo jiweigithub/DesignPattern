@@ -6,8 +6,8 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
-!/.idea/
-!/.out/
 
 # Project exclude paths
 /out/
+/DesignPattern.iml
+/.idea/
